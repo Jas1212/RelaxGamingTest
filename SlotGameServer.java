@@ -8,7 +8,7 @@ import java.util.*;
  *
  * This server logic is intended to be used by a client such as SlotGameClient for a full game loop.
  * 
- * @author Your Name
+ * @author Jaskaran Heldestad
  * @date 2025-06-24
  * @version 1.0
  */
